@@ -33,6 +33,5 @@ Kalo berhasil running bakal muncul kaya gini.
 [23:10:41] PING successfully | YOUR-IP
 ```
 # Notes
-- Run this bot, and it will update your referrer code to my invite code if you don't have one.
-- This bot have delays for sending Reports to Blackmesh Network server to avoid rate limiting.
-- You can just run this bot at your own risk, I'm not responsible for any loss or damage caused by this bot. This bot is for educational purposes only.
+- Semoga JP.
+- This bot is for educational purposes only!
