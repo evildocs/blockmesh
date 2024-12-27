@@ -14,7 +14,7 @@ Farming Blockmesh pake proxy.
 pip install -r requirements.txt
 ```
 ### Run the Bot
-- Replace/isi proxymu di ```proxies.txt``` sudah include di file.
+- Replace/isi proxymu di ```proxies.txt``` (format proxy sudah ada di file)
 
 #### Run command
 - Windows:
